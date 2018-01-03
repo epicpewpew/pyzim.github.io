@@ -61,5 +61,6 @@ STATIC_PATHS = [
     'extra/robots.txt',
     'README.md',
 ]
+DISQUS_SITENAME = "pyzim"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
