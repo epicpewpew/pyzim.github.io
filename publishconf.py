@@ -20,5 +20,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "https://https-pyzim-github-io.disqus.com"
+DISQUS_SITENAME = "pyzim"
 #GOOGLE_ANALYTICS = ""
