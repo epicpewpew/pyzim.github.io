@@ -39,6 +39,7 @@ TWITTER_USER  = 'pycon_zim'
 GOOGLEPLUS_USER = '110831175850960549188'
 ABOUT_LINK = 'about'
 FACEBOOK_USER = 'pyzim'
+GITHUB_USER = 'pyzim'
 LINKEDIN_USER = 'pyzim'
 
 # Blogroll
